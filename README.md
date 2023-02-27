@@ -49,59 +49,46 @@ Students will get a letter at the end of the semester. This grade will reflect h
 
 Some assignments and quizzes may be awarded by the instructor with a couple of extra points. Additional bonus points may be given in midterm and final examinations. Participation is not attendance. Instructors may evaluate your in-class performance and give credits free from your other gained points.
 
-
-### 8. Notlandırma Kriterleri ve Değerlendirme Aralıkları
-
-Notlandırma kriterleri bu ders için hazırlanmıştır ve öğrenciler harf notlarını aşağıdaki tablodaki çalışmalardan toplamaktadır.
-
-
 | Item | Weigth (%) | Points |
 | :--------- | :-----: | :--: |
 | Midterm exam	| 40	| 40 |
 | Quizzes, class discussions, and participation | 20 | 20 |
 | Final exam	| 40	| 40 |
 
-| Harf || Aralık	||
-| :--: | :--: | :--: | :--: |
-| AA | 4.0 | 94 | 100|
-| BA | 3.5 | 88 | 93|
-| BB | 3.0 | 82 | 87|
-| CB | 2.5 | 76 | 81|
-| CC | 2.0 | 70 | 75|
-| FF | 0.0 | 0 | 69|
+### Quizzes
 
-### 9. Dönem Projesi
-Dönem projesi, öğrencilerin konu ile ilgili uygulama becerilerini artırmayı amaçlayan bir çalışmadır. Dönem içinde işlenen konulara paralel olarak gelişeceği düşünülen proje, bir işletmenin belirli bir durumunun ortaya çıkarılması, problemlerinin tespit edilmesi ve çeşitli önerilerin geliştirilmesine dayanan bir vak’a çalışması olarak hazırlanmalıdır. Projenin nasıl hazırlanacağı ile ilgili ayrıntılı bilgi Proje Açıklamaları dosyasından elde edilebilir. Bu çalışma grup çalışması olarak planlanmıştır, gruplar en fazla 2 kişi olacak şekilde oluşturulmalı ve projeye katkının eşit olması gerekmektedir. Projenin değerlendirme notu proje grubundaki öğrencilerin dönem sonu notuna eklenecek bir puan olarak verilir.
+The quizzes may cover any material discussed in class or assigned in the text. The regular quizzes will be given at the end of class, online quizzes will be on the same day via electronic tools. There will be no make-up quiz.
 
-### 10. Okumalar ve Ders Tartışmaları
-Ders, öğretim elemanının anlatımı, gösterimi veya yönlendirmesi üzerine işleniyor olsa da, her öğrenci dersteki konularla ilgili sorgulamak, kritik etmek, öneri geliştirmek, iş yaşamındaki uygulamalardan örnekler vermek, sınıf içi tartışmalara katılmak, ödev ve mini sınavlarda performans göstermek ve belirtilen alanlarda okumalar yapmakla sorumludur. Bu sorumluluk dersin belirli bölümlerinde sınıf içi tartışmalara öncülük etmeyi de gerektirir.
+### Exams
+Your examinations are 1.5-hour duration, closed-book, closed-notes. However, I may add a formulation/help/summary sheet to the examination question paper. Please bring in a scientific calculator when taking your examinations.
+The exams are not in any particular format so expect both standard numerical problem solving and conceptual type questions. The exams will test your understanding of the material covered in this course. The main objective is to find out how reflective you are in answering the questions correctly, subject to a limited time constraint.
 
-### 11. Final Sınavı
-Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilecekleri bir ev ödevi şeklinde verilmektedir. Belirli bir süre sonunda teslim edilmesi gereken çalışmadan elde edilecek puan toplam notun %40’ını oluşturacaktır.
+### Responsibilities and Academic Honesty
 
-### 12. Sorumluluk ve Akademik Etik
-Öğrenciler dersi takip etmek, gerekli çalışmaları yapmak ve sınavlara katılmakla ilgili sorumludur. Öğrenci, ayrıca, derste anlatılsın ya da anlatılmasın, ders programında belirtilen bütün konulardan da sorumludur. Bu derste notlandırma yapılan çalışmalar, aksi belirtilmedikçe, bireysel çalışmalardır. Bir çalışmayı yardımlaşarak yapmakla, başkasıyla aynı çalışmayı teslim etmek ayrı şekilde değerlendirilir.
+You have a responsibility to yourselves, your fellow classmates, and me, as an instructor, to join prepared and to participate in classroom discussions. You are responsible for all material presented in class whether or not they are presented. This material includes the lectures and discussions.
+
+Cheating of any type will not be tolerated. Anyone caught plagiarizing, copying from other students, or allowing others to copy his or her work will receive a grade of 0 (zero) on the relevant assignment, quiz, or exam. In certain cases additional penalties may be applied as provided by university regulations.
 
 ### 13. Haftalık Program
 <sup>! Dönem içinde değişebilir</sup>
 
-| Hafta | Konu  | Slayt | Okuma | Ödev |
+| Week | Subject  | Slides | Reading | Assignment |
 | :---: | :---- | :---- | :---- | :--- |
-| 1	| **Derse giriş** |
-| 2	| **Simülasyona giriş** <br> Simülasyon, bir sisteme ilişkin operasyonun belirli bir zaman süresince çalışan yaklaşık bir taklidi olarak düşünülebilir. Diğer yandan, bir süreci ifade edecek şekilde kullanımı da yaygındır. Bu açıdan bakıldığında, simülasyon, bir sistemin davranışlarının belirlenebilmesi için o sistemin laboratuvar ortamında oluşturulması anlamına gelebilmektedir. |
-| 3	| **Temel kavramlar** <br> Simülasyona ilişkin çalışmanın özelliklerine göre farklı sınıflandırmalar yapılabilir. Fiziksel özelliklerine, çalıştırma zamanına, değişkenlerin belirsizlik durumlarına veya simülasyonun modellendiği teknik platforma göre farklı sınıflar kullanılabilir. |
-| 4	| **Simülasyon yaklaşımları** <br> Simülasyon yaklaşımları, sistemleri farklı bakış açısıyla incelemek için kullanılan yapısal simülasyon kuramları olarak da adlandırılabilir. Temel özelliklerine bakıldığında bunların, sistemin bileşenleri arasındaki ilişkilerin sistem davranışına etkisinin ele alınmasını sağlayan yaklaşımlar olduğu söylenebilir. |
-| 5	| **Rastsal sayı ve rastsal değişken üretmek** <br> Rastsallık, düzensizlik durumunu anlatır. Rastsal süreç ise, sonuçları deterministik olarak açıklanamayan ancak bir olasılık dağılımını takip eden olaylar bütünüdür. İstatistiğin konuları içinde sıklıkla karşılaşılan rastsallık, belirli bir korelasyondan (ilişkiden) yoksun olayları istatistiksel olarak açıklamak için kullanılır. |
-| 6	| **Stokastik süreç üretmek** <br> Bu yaklaşım, üzerinde çalışılan sistem veya onun kuramsal dayanağı hakkında bir varsayımda bulunmaz ve yukarıda bahsedilen yapısal simülasyon kuramlarına veya varsayımlarına uymayan durumlar için kullanılır. |
-| 7	| **Monte Carlo Simülasyonu** - 1 <br> Monte Carlo simülasyonu, tipik bir tahmin modelinden farklı olarak, bir dizi sabit girdiye bağlı tahmini bir değer aralığına dayalı bir dizi sonucun tahmin edilmesini sağlar. Diğer bir deyişle, Monte Carlo simülasyonu doğası gereği belirsizliğe sahip herhangi bir değişken için olasılık dağılımlarından yararlanarak olası sonuçların bir modelini oluşturur ve minimum ile maksimum değerler arasında farklı bir rastsal sayı kümeleri kullanarak sonuçların tekrar hesaplanmasına izin verir.|
-| 8	| **Monte Carlo Simülasyonu** - 2 |
-| 9 | **Kesikli sistemlerin simülasyonu** - 1 <br> Kesikli simülasyon (ayrık olay simülasyonu), bir sistemin işleyişinin zaman akışı boyunca birbirinden ayrı (ayrık) olaylar dizisi olarak modellemek için kullanılır. Her olay belirli bir zamanda meydana gelir ve sistemdeki bir durum değişikliğini gösterir. |
-| 10 | **Kesikli sistemlerin simülasyonu** - 2 |
-| 11 | **İstatistiksel analiz ve geçerliliğin doğrulanması** <br> Bir simülasyon modelinin doğrulanması (validation) genellikle ihmal edilen önemli bir konudur ve “Bir simülasyon modeli gerçek sistemin operasyonlarını ne kadar doğru şekilde yansıtır?” veya “Elde edilen simülasyon sonuçlarının doğru ve anlamlı olduğundan ne kadar emin olunabilir?” gibi sorulara yanıt verilebilmesini sağlar.|
-| 12 | **Uygulamalar** |
-| 13 | **Uygulamalar** |
-| 14 | **Uygulamalar** |
-| 15 | **Proje sunumları** |
-| 16 | **Proje sunumları** |
+| 1	| **Welcome** |
+| 2	| **Introduction to operations research** <br> This is a study of Operations Research (OR), mainly Management Science (MS), approaches in organization. You will gain an understanding of modeling and rational approaches to decision making and their contribution to organizational effectiveness. Analysis and communication are emphasized by using real world applications and cases. |
+| 3	| **Project scheduling: Foundations** - 1 <br> |
+| 4	| **Project scheduling: PERT** - 2 <br> |
+| 5	| **Project scheduling: CPM** - 3 <br> |
+| 6	| **Waiting line models: Foundations** - 1 <br> |
+| 7	| **Waiting line models:** - 2 <br> |
+| 8	| **Waiting line models:** - 3 |
+| 9 | **Simulation** - 1 <br> |
+| 10 | **Simulation** - 2 |
+| 11 | **Simulation** - 3 <br> |
+| 12 | **Decision analysis** - 1 |
+| 13 | **Decision analysis** - 2 |
+| 14 | **Dynamic programming** - 1 |
+| 15 | **Dynamic programming** -2 |
+| 16 | **Farewell** |
 
 [^1]: [Simülasyon, İlter, H. K. 2022.](IZV-502-SIM/blob/main/kaynaklar/simulasyon-preprint.pdf)
