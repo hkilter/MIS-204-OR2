@@ -8,65 +8,58 @@ Prof. H. Kemal İlter, Ph.D.
 kemal.ilter@bakircay.edu.tr  
 @hkilter
 
-### 1. Ders
-Simülasyon (benzetim), bir sistemin davranışlarının belirlenebilmesi için o sistemin laboratuvar ortamında oluşturulması anlamına gelebilmektedir. Amaç, gerçek sistemin davranışlarının ve sistem çıktılarının benzerlerinin oluşturulması ve sistemin tanımlanmasıdır. Bir simülasyon, bir sistemin belirli bir zaman içinde sayısal olarak değişimini veya evrimleşmesini modellemek için kullanılabilmektedir.
+### 1. About
+This is a study of Operations Research (OR), mainly Management Science (MS), approaches in organization. You will gain an understanding of modeling and rational approaches to decision making and their contribution to organizational effectiveness. Analysis and communication are emphasized by using real world applications and cases. Topics include waiting line models (queueing systems), simulation, project scheduling, decision analysis, and dynamic programming applied to tactical and strategic business decisions in functional areas and interfaces among these areas. Implementation using existing software packages of decision models (i.e. Excel macros or add-ins) to solve various managerial problems is an integrated part of this course.
 
-Bu derste, simülasyonun işletme süreçlerine ilişkin karar mekanizmasındaki kullanımına odaklanılmaktadır. Dersin konuları, genel olarak simülasyonun teorik ve pratik yönlerini kapsamaktadır. Simülasyonun temelleri, rastsal süreçler, Monte Carlo yöntemi ve kesikli simülasyondan bahsedilen ilk bölümün ardından, günlük yaşama ilişkin örnekler, bekleme hatlarının modellenmesi, stok sistemlerinin simülasyonu gibi uygulamalar ikinci bölümde sunulacaktır.
+Operations research (OR) is a discipline that deals with the application of advanced analytical methods to help make better decisions. Management science (MS) is the broad interdisciplinary study of problem solving and decision making in human organizations, with strong links to management, economics, business, engineering, management consulting, and other fields.
 
-### 2. Amaçlar
-Bu dersi başarıyla tamamlayan öğrencinin;
-- simülasyonun kavramsal özellikleri,
-- belirli düzeylerdeki simülasyon modelleri,
-- rastsallık ve rastsal süreçler,
-- simülasyon uygulamaları
-- konularında temel bilgiye sahip olması beklenmektedir.
+### 2. Objectives
+Upon completing this course, you should be able to;
+
+- Develop analytical skills in structuring and analysis (scientific method) of business decision problems which characterize the field of the Operations Research (OR) or Management Science (MS).
+- Develop awareness of the complementary nature of the rational and behavioral approaches to decision making and planning.
+- Understand usefulness and limitations of selected OR techniques to find solutions to analytical models.
+- Use software to generate computer solutions of the models.
+- Learn, through case studies, the applications of OR to find solutions to real life business problems including those in the global environment.
+- Demonstrate skills in communicating the analysis and results of business decision problems and to work as a member of a team.
+- Use the knowledge gained from this course to continue life-long learning in decision technologies to aid business decision making and planning.
 
 ### 3. Konular
-I	Simülasyona ilişkin temel bilgiler.  
-II 	Rastsal süreçler.  
-III	Monte Carlo Simülasyonu.  
-IV	Kesikli Sistem Simülasyonu.  
-V	Uygulamalar.
+I	Project scheduling.  
+II 	Waiting line models.  
+III	Simulation.  
+IV	Decision analysis.  
+V	Dynamic programming.
 
-### 4. Kaynaklar
-Derste, tek bir ders kitabı belirlemek yerine çeşitli kitap ve makalelerden faydalanılmaktadır. Bunlardan bazıları aşağıda listelenmiştir:
+### 4. Materials
 
-- İlter, H. Kemal. Simülasyon ile Modelleme[^1]. (2022). Veri Modelleme ve Veri Analitiği içinde (1. ed., s. 612–653). Nobel Akademik Yayıncılık.
-- An Introduction to Management Science: Quantitative Approaches to Decision Making, 14e. D. R. Anderson, D. J. Sweeney, T. A. Williams, J. D. Camm, J. J. Cochran, M. J. Fry, J. W. Ohlmann, Cengage Learning, 2016. ISBN-10: 1111823618 | ISBN-13: 9781111823610.
+*Required Textbook*
+
+An Introduction to Management Science: Quantitative Approaches to Decision Making, 14e. D. R. Anderson, D. J. Sweeney, T. A. Williams, J. D. Camm, J. J. Cochran, M. J. Fry, J. W. Ohlmann, Cengage Learning, 2016. ISBN-10: 1111823618 | ISBN-13: 9781111823610.
+
+*Additional Resources*
+
 - Balakrishnan, N., B. Render, and R. M. Stair Jr. 2007. Managerial Decision Modeling with Spreadsheets. Upper Saddle River, New Jersey: Prentice-Hall, Incorporated. ISBN: 013226806X.
 - Introduction to Operations Research 8th Ed., McGraw-Hill, 2005, by Hillier, F.S., Lieberman, G.J., ISBN-13 9780073211145.
-Applied Management Science: Modeling, Spreadsheet Analysis, and Communication for Decision Making, 2nd Edition, John A. Lawrence, Jr., Barry A. Pasternack, ISBN-13: 9780471391906.
+- Applied Management Science: Modeling, Spreadsheet Analysis, and Communication for Decision Making, 2nd Edition, John A. Lawrence, Jr., Barry A. Pasternack, ISBN-13: 9780471391906.
 - Yöneylem Araştırması: İşletmecilik Uygulamalı Bilgisayar Destekli Modelleme, 2nd Edition, Siyasal Kitabevi, 2007, Aydın Ulucan, ISBN: 9756325118.
 
-### 5. Slaytlar
-Dersler slaytlar yardımıyla işlenmektedir. Derste kullanılan slaytlar, her dersten önce web sitesinde yayınlanmaktadır. Slaytlar dersin ilgili bölümlerini kapsamaktadır. Ders slaytları dersin diğer kaynaklarını tamamlayıcı özelliktedir ve ders notu olarak algılanmamalıdır. Slaytların dersten önce yayınlanmasının nedeni, derste not tutmak isteyen öğrencinin slaytlar üzerine not almasını sağlamak, böylece dersteki etkinliği artırmaktır.
+### 5. Grading
+Students will get a letter at the end of the semester. This grade will reflect his/her personal academic performance in this semester. Additional works to gain some points may be accepted. Course evaluation is totally and only related to student’s course performance and course-based academic performance.
 
-### 6. Araçlar
-Derste aşağıdaki araçları kullanılmaktadır. Öğrencinin ilk iki haftada Excel, GitHub ve RStudio için giriş düzeyinde bilgi sahibi olması ve kullanması beklenmektedir.
+Some assignments and quizzes may be awarded by the instructor with a couple of extra points. Additional bonus points may be given in midterm and final examinations. Participation is not attendance. Instructors may evaluate your in-class performance and give credits free from your other gained points.
 
-- [ ] Git. https://training.github.com/downloads/tr/github-git-cheat-sheet
-- [x] GitHub. https://githubtraining.github.io/training-manual/book.pdf
-- [ ] GitHub Docs. https://docs.github.com
-- [ ] R. https://www.r-project.org
-- [x] RStudio. https://support--rstudio-com.netlify.app/resources/cheatsheets
-- [ ] VS Code. https://code.visualstudio.com
-- [x] MS Excel. https://www.microsoft.com/en/microsoft-365/excel
-- [ ] Python. https://www.python.org
-- [ ] Julia. https://julialang.org
-
-### 7. Notlandırma
-Bu ders tasarımında yer alan ve ders notlandırma tablolarının, parametrelerinin, yüzdelerinin ve diğer notlandırma bilgilerinin tamamı öğrencinin bu dersteki akademik performansını değerlendirmek için kullanılmaktadır. Bu derste katalog sistemi kullanılmakta, çan eğrisi (curve) sistemi kullanılmamaktadır. Öğrenciler bu derste topladıkları puanları web sitesinden takip edebilirler. Bu yolla öğrenilen notlarla dersin öğretim elemanının puan listesi arasında fark olursa, öğretim elemanının listesi doğru kabul edilir. Öğrenciler, dönem sonunda kişisel akademik performansını yansıtan bir harf notu alırlar. Bu dersle ilgili ek çalışmalar dersin öğretim elemanı tarafından ayrıca değerlendirilebilir. Dönemin son dersinden sonra yapılan ek çalışmalar notlandırılmaz.
 
 ### 8. Notlandırma Kriterleri ve Değerlendirme Aralıkları
 
 Notlandırma kriterleri bu ders için hazırlanmıştır ve öğrenciler harf notlarını aşağıdaki tablodaki çalışmalardan toplamaktadır.
 
 
-| Çalışmalar | Ağırlık (%) | Puan |
+| Item | Weigth (%) | Points |
 | :--------- | :-----: | :--: |
-| Dönem Projesi	| 40	| 40 |
-| Okumalar ve Ders tartışmaları	| 20	| 20 |
-| Final Sınavı	| 40	| 40 |
+| Midterm exam	| 40	| 40 |
+| Quizzes, class discussions, and participation | 20 | 20 |
+| Final exam	| 40	| 40 |
 
 | Harf || Aralık	||
 | :--: | :--: | :--: | :--: |
