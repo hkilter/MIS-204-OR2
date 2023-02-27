@@ -60,7 +60,7 @@ Some assignments and quizzes may be awarded by the instructor with a couple of e
 The quizzes may cover any material discussed in class or assigned in the text. The regular quizzes will be given at the end of class, online quizzes will be on the same day via electronic tools. There will be no make-up quiz.
 
 ### Exams
-Your examinations are 1.5-hour duration, closed-book, closed-notes. However, I may add a formulation/help/summary sheet to the examination question paper. Please bring in a scientific calculator when taking your examinations.
+Your examinations are 1.5-hour duration, closed-book, closed-notes. However, I may add a formulation, help, or summary sheet to the examination question paper. Please bring in a scientific calculator when taking your examinations.
 The exams are not in any particular format so expect both standard numerical problem solving and conceptual type questions. The exams will test your understanding of the material covered in this course. The main objective is to find out how reflective you are in answering the questions correctly, subject to a limited time constraint.
 
 ### Responsibilities and Academic Honesty
@@ -75,7 +75,7 @@ Cheating of any type will not be tolerated. Anyone caught plagiarizing, copying 
 | Week | Subject  | Slides | Reading | Assignment |
 | :---: | :---- | :---- | :---- | :--- |
 | 1	| **Welcome** |
-| 2	| **Introduction to operations research** <br> This is a study of Operations Research (OR), mainly Management Science (MS), approaches in organization. You will gain an understanding of modeling and rational approaches to decision making and their contribution to organizational effectiveness. Analysis and communication are emphasized by using real world applications and cases. |
+| 2	| **Introduction to operations research** <br> |
 | 3	| **Project scheduling: Foundations** - 1 <br> |
 | 4	| **Project scheduling: PERT** - 2 <br> |
 | 5	| **Project scheduling: CPM** - 3 <br> |
